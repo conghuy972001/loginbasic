@@ -1,0 +1,115 @@
+
+/* ..................HEADER............... */
+.header-bar{
+    background-color: rgb(178, 175, 175);
+    width: auto;
+    height: 70px;
+  }
+  
+  a.text-trangchu{
+    vertical-align: -25px;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: yellow;
+    margin-left: 60px;
+  }
+  a.text-tintuc{
+    vertical-align: -25px;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: yellow;
+    margin-left: 60px;
+  }
+  
+  a.text-trangchu:visited{
+    color: rgb(101, 0, 91);
+    text-decoration: none;
+  }
+  a.text-tintuc:visited{
+    color: rgb(101, 0, 91);
+    text-decoration: none;
+  }
+  
+  a:hover{
+    color: rgb(255, 0, 0);
+    text-decoration: underline;
+  }
+  
+  .header-text {
+    float: right;
+    margin-right: 80px;
+    margin-top: 25px;
+  }
+  
+  
+  /* .................header................. */
+  
+  a.link-tacgia {
+    text-decoration: none;
+    margin-left: 30px;
+  }
+  a.link-lienhe {
+    text-decoration: none;
+    margin-left: 30px;
+  }
+  .footer-bar{
+    background-color: rgb(178, 175, 175);
+    width: auto;
+    height: 75px;
+  }
+  
+  .text-footer{
+    margin-left: 30px;
+  }
+  
+
+  
+  
+  /* ..................Body............... */
+  .text-username{
+    display: inline;
+  }
+  .text-password{
+    display: inline;
+  }
+  .body-main{
+    width: 400pX;
+    height: 550px;
+    text-align: center;
+    border: 3px solid #b1154a;
+    margin: 0 auto;
+    background-color: azure;
+  }
+.body-title{
+    text-align: center;
+    border-bottom: 3px solid #b1154a;
+    margin: 0 auto;
+    background-color: azure;
+}
+
+.form-group {
+    margin-top: 10px;
+}
+
+.buttonLogin {
+    margin-top: 10px;
+    font-size: 20px;
+    background-color:#b1154a;
+}
+
+.input-login {
+    border-radius: 5px;
+    width: 160px;
+    height: 30px;
+}
+
+h5{
+  margin-top: 100px;
+}
+
+
+
+
+  
+  
+  
